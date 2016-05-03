@@ -1,4 +1,6 @@
 spec: 'concerto/manifest#0.1.0'
 certs: [
   'eowyn-evans-2016-05-01-21h38-36s.cert.pem'
+  'eowyn-evans-2016-05-03-02h43-06s.cert.pem'
+  'eowyn-evans-2016-05-03-03h43-55s.cert.pem'
 ]
