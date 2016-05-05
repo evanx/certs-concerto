@@ -1,13 +1,15 @@
 {
    "spec": "redishub/manifest#0.3.0",
-   "rolePermissions": {
+   "permissions": {
       "admin": [
-          {
+         {
             "resource": {
                "regexp": ".*"
             },
-            "accessLevel": "admin"
-          }      
+            "allow": [
+               "all-actions"
+            ]
+         }
       ]
    }
 }
